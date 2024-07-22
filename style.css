@@ -24,6 +24,7 @@ header ul li a {
       color: #FFFFFF;
       font-size: 20;
       text-decoration: none;
+      text-align: end;
     }
 
 .about_img {
