@@ -10,6 +10,7 @@ header{
       justify-content: space-between;
       padding: 10;
       position: sticky;
+      height: 40;
     }
 
 header ul{
@@ -21,12 +22,17 @@ header ul li {
       padding: 0 20;
     }
 
-header ul li a {
+header ul li p {
       color: #FFFFFF;
       font-size: 30;
       text-decoration: none;
       text-align: end;
+      height: 30;
     }
+
+.about_contents {
+      display: inline-block;
+}
 
 .about_img {
     display: block;
