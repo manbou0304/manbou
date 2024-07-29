@@ -3,7 +3,6 @@ body {
       margin: 0;
       text-align: center;
     }
-
 header{
       background-color: #333333;
       display: flex;
@@ -12,37 +11,41 @@ header{
       position: sticky;
       height: 40;
     }
-
 header ul{
       margin: 0;
       height: 30;
     }
-
 header ul li {
       display: inline-block;
       padding: 0 20;
     }
-
 header ul li a {
       color: #FFFFFF;
       font-size: 30;
       text-decoration: none;
       text-align: end;
     }
-
-.about_contents {
-      display: inline-block;
+.about {
+      display: flex;
 }
-
-.about_img {
-    display: block;
-    width: 100;
-　　　　　　　　padding: 75;
-    height: auto
+.about .img {
+      width: 640;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      position: relative;
 }
-
-.about ul {
-　　　　　　　text-align: left;
-　　　　　　　margin-left: auto;
-　　　　　　　argin-right: auto;
+.about .right {
+      margin: 0 0 0 20;
+      padding: 0;
+}
+.about .title {
+      margin: 0;
+      padding: 0;
+      font-weight: bold;
+      font-size: 18;
+}
+.about .text {
+      margin: 10 0 0;
+      padding: 0;
 }
