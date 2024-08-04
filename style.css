@@ -29,6 +29,7 @@ header ul li a {
 }
 .about .img {
       width: 296;
+      height: 296;
       margin: 0;
       padding: 0;
       overflow: hidden;
