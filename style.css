@@ -1,6 +1,10 @@
 div {
       display: block;
 }
+section {
+      padding-top: 24;
+      padding-bottom: 24;
+}
 body {
       color: #333333;
       margin: 0px;
@@ -31,9 +35,8 @@ header ul li a {
       text-decoration: none;
       text-align: end;
     }
-section {
-      padding-top: 24;
-      padding-bottom: 24;
+.jikosyo {
+      margin: 0 auto;
 }
 .about {
       display: flex;
@@ -61,4 +64,5 @@ section {
 .about .text {
       margin: 10px 0px 0px;
       padding: 0px;
+      font-size: 20;
 }
