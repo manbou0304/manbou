@@ -7,6 +7,7 @@ body {
       margin: 0px;
       display: block;
     }
+//header設定
 header{
       background-color: #333333;
       display: flex;
@@ -32,6 +33,8 @@ header ul li a {
       text-decoration: none;
       text-align: end;
     }
+
+//about設定
 .jikosyo {
       margin: 0 auto;
 }
