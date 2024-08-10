@@ -64,5 +64,7 @@ header ul li a {
 .about .text {
       margin: 10px 0px 0px;
       padding: 0px;
+}
+.about.text p {
       font-size: 20;
 }
