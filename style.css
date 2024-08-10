@@ -40,7 +40,7 @@ header ul li a {
 }
 .about {
       display: flex;
-      padding-lrft: 48;
+      padding-left: 48;
       padding-right: 48;
 }
 .about .img {
