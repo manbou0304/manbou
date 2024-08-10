@@ -26,7 +26,7 @@ header ul li a {
       text-align: end;
     }
 .about {
-      display: block;
+      display: inline-block;
 }
 .about .img {
       width: 296px;
