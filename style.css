@@ -8,9 +8,12 @@ header{
       display: flex;
       justify-content: space-between;
       padding: 10px;
-      position: sticky;
       height: 20px;
     }
+header{
+      potision: sticky;
+      top: 0px;
+}
 header ul{
       margin: 0px;
       height: 20px;
