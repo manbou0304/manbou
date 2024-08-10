@@ -43,7 +43,6 @@ section {
       height: 500px;
       margin: 0px;
       padding: 0px;
-      position: relative;
       object-fit: contain;
       display: block;
 }
