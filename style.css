@@ -30,7 +30,7 @@ header ul li a {
 
 
 section {
-      display: block;
+      display: inline-block;
       margin-left: auto;
       margin-right: auto;
 }
