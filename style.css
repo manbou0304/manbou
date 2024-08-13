@@ -30,6 +30,8 @@ header ul li a {
 
 .about {
   display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 .about .image {
   width: 640px;
