@@ -48,11 +48,12 @@ header ul li a {
   margin: 16 0 0;
   padding: 0;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 36px;
 }
 .about .text {
   margin: 10px 0 0;
   padding: 0;
+  font-size: 32px;
 }
 
 .about .image {
