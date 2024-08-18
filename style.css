@@ -14,6 +14,7 @@ header{
       padding: 20px;
       position: sticky;
       top: 0px;
+      z-index: 2;
     }
 header ul{
       margin: 0;
@@ -38,11 +39,10 @@ header ul li a {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  position: relative;
+  z-index: 1;
 }
 .about .img img {
       border-radius: 10px;
-      position: static;
 }
 .about .right {
   margin: 0 0 0 20px;
