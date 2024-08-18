@@ -55,23 +55,3 @@ header ul li a {
   padding: 0;
   font-size: 24px;
 }
-
-.about .image {
-  overflow: hidden;
-  position: relative;
-}
-.about .image::before {
-  content: "";
-  display: block;
-  padding-top: 58%;
-}
-.about .image img {
-  width: 50%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin: 0;
-}
-
