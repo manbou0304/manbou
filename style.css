@@ -34,7 +34,7 @@ header ul li a {
   flex-wrap: wrap;
 }
 .about .image {
-  width: 480px;
+  width: 240px;
   margin: 0;
   padding: 0;
   overflow: hidden;
