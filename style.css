@@ -41,7 +41,8 @@ header ul li a {
   position: relative;
 }
 .about .img img {
-      border-radius 10px;
+      border-radius: 10px;
+      z-index: 0;
 }
 .about .right {
   margin: 0 0 0 20px;
