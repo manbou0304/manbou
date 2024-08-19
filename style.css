@@ -30,9 +30,11 @@ header ul li a {
     }
 
 .midasi {
+      padding: 0;
       height: 450px;
 }
 .midasi p {
+      margin: 0;
       top: 50%;
       font-weight: 900;
       text-align: center;
