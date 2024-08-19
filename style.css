@@ -17,11 +17,11 @@ header{
       z-index: 2;
     }
 header ul{
-      margin: 0;
+      margin: 0px;
     }
 header ul li {
       display: inline-block;
-      padding: 0 20px;
+      padding: 0px 20px;
     }
 header ul li a {
       color: #FFFFFF;
@@ -30,13 +30,12 @@ header ul li a {
     }
 
 .midasi {
-      padding: 0;
+      padding: 0px;
       height: 450px;
 }
 .midasi p {
-      margin: 0;
-      top: 50%;
-      font-weight: 900;
+      margin: 187.5px;
+      font-weight: 900px;
       text-align: center;
       font-size: 50px;
 }
