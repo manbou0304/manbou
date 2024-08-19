@@ -29,6 +29,14 @@ header ul li a {
       text-decoration: none;
     }
 
+.midasi {
+      height: 150px;
+}
+.portforio_title {
+      display: block;
+      font-size: 50px;
+}
+
 .about {
   display: flex;
   justify-content: center;
