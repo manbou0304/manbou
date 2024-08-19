@@ -30,10 +30,10 @@ header ul li a {
     }
 
 .midasi {
-      height: 150px;
+      height: 450px;
 }
 .portforio_title {
-      display: block;
+      text-align: center;
       font-size: 50px;
 }
 
