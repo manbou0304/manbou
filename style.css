@@ -33,6 +33,7 @@ header ul li a {
       height: 450px;
 }
 .portforio_title {
+      font-weight: bold;
       text-align: center;
       font-size: 50px;
 }
