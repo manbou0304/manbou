@@ -89,32 +89,32 @@ header ul li a {
 /* 
 作品の装飾
       */
-.sakuhin_Content {
+.skills {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
 }
-.sakuhin_Content .sakuhin_img {
+.skills .img {
   width: 360px;
   margin: 0;
   padding: 0;
   overflow: hidden;
   z-index: 1;
 }
-.sakuhin_Content .sakuhin_img img {
+.skills .img img {
       border-radius: 10px;
 }
-.sakuhin_Content .sakuhin_text {
+.skills .right {
   margin: 0 0 0 20px;
   padding: 0;
 }
-.sakuhin_Content .title {
+.skills .title {
   margin: 0;
   padding: 0;
   font-weight: bold;
   font-size: 36px;
 }
-.sakuhin_Content .text {
+.skills .text {
   margin: 10px 0 0;
   padding: 0;
   font-size: 26px;
