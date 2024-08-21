@@ -1,3 +1,6 @@
+/* 
+css全体の設定
+         */
 div {
       padding-top: 24px;
       padding-bottom: 24px;
@@ -7,6 +10,10 @@ body {
       margin: 0px;
       display: block;
     }
+
+/* 
+ヘッダーの装飾
+         */
 header{
       background-color: #333333;
       display: flex;
@@ -30,6 +37,9 @@ header ul li a {
       text-decoration: none;
     }
 
+/* 
+マンボウのポートフォリオの文字の装飾
+                         */
 .midasi {
       padding: 0px;
       height: 450px;
@@ -42,6 +52,9 @@ header ul li a {
       font-size: 50px;
 }
 
+/* 
+自己紹介の装飾
+         */
 .about {
   display: flex;
   justify-content: center;
@@ -68,6 +81,40 @@ header ul li a {
   font-size: 36px;
 }
 .about .text {
+  margin: 10px 0 0;
+  padding: 0;
+  font-size: 26px;
+}
+
+/* 
+作品の装飾
+      */
+.sakuhin_Content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.sakuhin_Content .sakuhin_img {
+  width: 360px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  z-index: 1;
+}
+.sakuhin_Content .sakuhin_img img {
+      border-radius: 10px;
+}
+.sakuhin_Content .sakuhin_text {
+  margin: 0 0 0 20px;
+  padding: 0;
+}
+.sakuhin_Content .title {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  font-size: 36px;
+}
+.sakuhin_Content .text {
   margin: 10px 0 0;
   padding: 0;
   font-size: 26px;
