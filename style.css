@@ -55,32 +55,32 @@ header ul li a {
 /* 
 自己紹介の装飾
          */
-.flex {
+.about {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
 }
-.flex .img {
+.about .img {
   width: 360px;
   margin: 0;
   padding: 0;
   overflow: hidden;
   z-index: 1;
 }
-.flax .img img {
+.about .img img {
       border-radius: 10px;
 }
-.flex .right {
+.about .right {
   margin: 0 0 0 20px;
   padding: 0;
 }
-.flex .title {
+.about .title {
   margin: 0;
   padding: 0;
   font-weight: bold;
   font-size: 36px;
 }
-.flex .text {
+.about .text {
   margin: 10px 0 0;
   padding: 0;
   font-size: 26px;
