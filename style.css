@@ -85,3 +85,37 @@ header ul li a {
   padding: 0;
   font-size: 26px;
 }
+
+/* 
+作品の装飾
+      */
+.skills {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.skills .img2 {
+  width: 360px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  z-index: 1;
+}
+.skills .img2 img {
+      border-radius: 10px;
+}
+.skills .right2 {
+  margin: 0 0 0 20px;
+  padding: 0;
+}
+.skills .title2 {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  font-size: 36px;
+}
+.skills .text2 {
+  margin: 10px 0 0;
+  padding: 0;
+  font-size: 26px;
+}
