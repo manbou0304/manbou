@@ -95,6 +95,13 @@ header ul li a {
   flex-wrap: wrap;
 }
 .sakuhin img {
+  width: 360px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  z-index: 1;
+}
+.sakuhin img {
   border-radius: 10px;
   border: solid 2px rgb(170, 230, 230);
 }
