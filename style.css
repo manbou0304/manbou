@@ -94,6 +94,9 @@ header ul li a {
   justify-content: center;
   flex-wrap: wrap;
 }
+.sakuhin {
+        margin: 0;
+}
 .sakuhin img {
   width: 360px;
   margin: 0;
