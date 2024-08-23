@@ -25,7 +25,6 @@ header{
       height: 30px;
     }
 header ul{
-      line-height: 20px;
       margin: 0px;
     }
 header ul li {
@@ -36,6 +35,7 @@ header ul li a {
       color: #FFFFFF;
       font-size: 24px;
       text-decoration: none;
+line-height: 20px;
     }
 
 /* 
