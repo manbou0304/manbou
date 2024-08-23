@@ -18,13 +18,14 @@ header{
       background-color: #333333;
       display: flex;
       justify-content: space-between;
-      padding: 10px;
+      padding: 0px;
       position: sticky;
       top: 0px;
       z-index: 2;
       height: 30px;
     }
 header ul{
+      padding: 5px 0px;
       margin: 0px;
     }
 header ul li {
