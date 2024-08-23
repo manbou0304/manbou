@@ -90,7 +90,9 @@ line-height: 20px;
 作品の装飾
       */
 .creation {
-  display: grid;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 .skills {
   display: flex;
