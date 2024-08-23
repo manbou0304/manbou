@@ -25,6 +25,7 @@ header{
       height: 20px;
     }
 header ul{
+      line-height: 20px;
       margin: 0px;
     }
 header ul li {
