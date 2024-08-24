@@ -115,6 +115,9 @@ line-height: 20px;
   margin: 0 0 0 20px;
   padding: 0;   
 }
+.detail .title {
+        font-size: 30;
+}
 .detail .text {
   margin: 10px 0 0;
   padding: 0;
