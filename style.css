@@ -47,7 +47,7 @@ line-height: 20px;
 .midasi p {
       margin: 0px;
       line-height: 450px;
-      font-weight: 1000;
+      font-weight: 1000px;
       text-align: center;
       font-size: 50px;
 }
@@ -62,8 +62,8 @@ line-height: 20px;
 }
 .img {
   width: 360px;
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   overflow: hidden;
   z-index: 1;
 }
@@ -71,18 +71,18 @@ line-height: 20px;
       border-radius: 10px;
 }
 .right {
-  margin: 0 0 0 20px;
-  padding: 0;
+  margin: 0px 0px 0px 20px;
+  padding: 0px;
 }
 .title {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   font-weight: bold;
   font-size: 36px;
 }
 .about .text {
-  margin: 10px 0 0;
-  padding: 0;
+  margin: 10px 0px 0px;
+  padding: 0px;
   font-size: 26px;
 }
 
@@ -102,8 +102,8 @@ line-height: 20px;
 }
 .sakuhin img {
   width: 360px;
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   overflow: hidden;
   z-index: 1;
 }
@@ -112,15 +112,15 @@ line-height: 20px;
   border: solid 2px rgb(170, 230, 230);
 }
 .detail {
-  margin: 0 0 0 20px;
-  padding: 0;   
+  margin: 0px 0px 0px 20px;
+  padding: 0px;   
 }
 .detail .title {
-        font-size: 30;
+        font-size: 30px;
 }
 .detail .text {
-  margin: 10px 0 0;
-  padding: 0;
+  margin: 10px 0px 0px;
+  padding: 0px;
   font-size: 20px;
 }
 
@@ -128,4 +128,12 @@ line-height: 20px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+}
+.overview .title {
+        font-size: 30px;
+}
+.overview .text {
+  margin: 10px 0px 0px;
+  padding: 0px;
+  font-size: 20px;
 }
