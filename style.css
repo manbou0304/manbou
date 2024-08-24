@@ -123,3 +123,9 @@ line-height: 20px;
   padding: 0;
   font-size: 20px;
 }
+
+.douga {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
