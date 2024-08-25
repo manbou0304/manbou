@@ -10,6 +10,9 @@ body {
       margin: 0px;
       display: block;
     }
+iframe {
+        border: none;
+}
 
 /* 
 ヘッダーの装飾
