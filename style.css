@@ -133,6 +133,9 @@ line-height: 20px;
   justify-content: center;
   flex-wrap: wrap;
 }
+.overview {
+        margin-right: 5px;
+}
 .overview .title {
         font-size: 30px;
         text-align: left;
