@@ -135,7 +135,8 @@ line-height: 20px;
 }
 .douga {
         background: green;
-        bg-size: 860px 314px;
+        background-size: 860px 314px;
+        background-position: center;
 }
 .overview {
         margin-right: 20px;
