@@ -128,11 +128,14 @@ line-height: 20px;
   font-size: 20px;
 }
 
+.wallpaper {
+        background: white;
+        background-size: 900px 314px;
+}
 .douga {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  flex-grow: 1;
 }
 .overview {
         margin-right: 20px;
