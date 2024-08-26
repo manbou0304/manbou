@@ -59,14 +59,6 @@ line-height: 20px;
 /* 
 自己紹介の装飾
          */
-.wallpaper1 {
-        background: white;
-        border-radius: 30px 0px;
-        border: solid 2px rgb(170, 230, 230);
-        width: 887.66px;
-        margin: 0px auto;
-        padding: 0px;
-}
 .about {
   display: flex;
   justify-content: center;
@@ -101,6 +93,14 @@ line-height: 20px;
 /* 
 作品の装飾
       */
+.wallpaper1 {
+        background: white;
+        border-radius: 30px 0px;
+        border: solid 2px rgb(170, 230, 230);
+        width: 887.66px;
+        margin: 0px auto;
+        padding: 0px;
+}
 .creation {
   text-align: center;
 }
@@ -108,6 +108,8 @@ line-height: 20px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  padding-top: 14px;
+  padding-bottom: 14px;
 }
 .sakuhin {
         margin: 0;
