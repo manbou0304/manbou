@@ -132,6 +132,7 @@ line-height: 20px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  flex-grow: 1;
 }
 .overview {
         margin-right: 20px;
