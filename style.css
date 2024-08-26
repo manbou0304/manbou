@@ -134,11 +134,13 @@ line-height: 20px;
         border: solid 2px rgb(170, 230, 230);
         width: 940px;
         text-align:  center;
+        padding: 0px;
 }
 .douga {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  padding: 0px;
 }
 .overview {
         margin-right: 20px;
