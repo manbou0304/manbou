@@ -143,6 +143,8 @@ line-height: 20px;
   padding: 0px;
 }
 .overview {
+        padding-top: 14px;
+        padding-bottom: 14px;
         margin-right: 20px;
 }
 .overview .title {
