@@ -154,6 +154,7 @@ line-height: 20px;
         padding: 0px;
 }
 .video {
+  position: absolute;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
