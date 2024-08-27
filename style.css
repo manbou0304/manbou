@@ -113,11 +113,6 @@ line-height: 20px;
   flex-wrap: wrap;
   padding-top: 14px;
   padding-bottom: 14px;
-  top:  0;
-  bottom:  0;
-  left:  0;
-  right:  0;
-  margin: auto;
   width: 885.656px;
   height: 353.133px;
 }
@@ -165,11 +160,6 @@ line-height: 20px;
   justify-content: center;
   flex-wrap: wrap;
   padding: 0px;
-   top:  0;
-  bottom:  0;
-  left:  0;
-  right:  0;
-  margin: auto;
   width: 887.656px;
   height: 294px;
 }
