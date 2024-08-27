@@ -101,7 +101,7 @@ line-height: 20px;
         border-radius: 30px 0px;
         border: solid 2px rgb(170, 230, 230);
         width: 887.66px;
-        display: inline-block;
+        margin: 0 auto;
         padding: 0px;
 }
 .creation {
@@ -150,7 +150,7 @@ line-height: 20px;
         border-radius: 0px 30px;
         border: solid 2px rgb(170, 230, 230);
         width: 887.66px;
-        display: inline-block;
+        margin: 0 auto;
         padding: 0px;
 }
 .video {
