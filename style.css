@@ -102,6 +102,7 @@ line-height: 20px;
         border: solid rgb(175, 200, 244);
         border-width: 2px 4px 4px 2px;
         width: 887.66px;
+        height: 379.13px;
         margin: 0 auto;
         padding: 0px;
 }
@@ -114,7 +115,7 @@ line-height: 20px;
   flex-wrap: wrap;
   padding-top: 14px;
   padding-bottom: 14px;
-  width: 885.656px;
+  width: 887.656px;
   height: 353.133px;
 }
 .sakuhin {
@@ -153,7 +154,7 @@ line-height: 20px;
         border-radius: 0px 30px;
         border: solid rgb(175, 200, 244);
         border-width: 2px 4px 4px 2px;
-        width: 885.66px;
+        width: 887.656px;
         margin: 0 auto;
         padding: 0px;
 }
