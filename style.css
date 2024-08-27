@@ -108,8 +108,6 @@ line-height: 20px;
   text-align: center;
 }
 .skills {
-  position: absolute;
-  margin: auto;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -156,8 +154,6 @@ line-height: 20px;
         padding: 0px;
 }
 .video {
-  margin: auto;
-  position: absolute;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
