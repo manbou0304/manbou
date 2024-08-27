@@ -178,3 +178,11 @@ line-height: 20px;
         padding-top: 14px;
         padding-bottom: 14px;
 }
+
+/*
+宣伝の装飾
+       */
+.Advertisement_icon {
+        width: 30px;
+        height: 30px;
+}
