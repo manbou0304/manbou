@@ -128,7 +128,7 @@ line-height: 20px;
 }
 .sakuhin img {
   border-radius: 10px;
-  border: solid 2px rgb(170, 230, 230);
+  border: solid 2px 4px 4px 2px rgb(175, 200, 244);
 }
 .detail {
   margin: 0px 0px 0px 20px;
@@ -150,7 +150,7 @@ line-height: 20px;
 .wallpaper2 {
         background: white;
         border-radius: 0px 30px;
-        border: solid 2px rgb(170, 230, 230);
+        border: solid 2px 4px 4px 2px rgb(175, 200, 244);
         width: 885.66px;
         margin: 0 auto;
         padding: 0px;
