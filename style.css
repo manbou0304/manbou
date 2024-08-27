@@ -75,7 +75,8 @@ line-height: 20px;
   z-index: 1;
 }
 .img img {
-      border-radius: 10px;
+  border-radius: 10px;
+  border: solid 2px rgb(170, 230, 230);
 }
 .right {
   margin: 0px 0px 0px 20px;
