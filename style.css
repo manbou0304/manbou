@@ -108,6 +108,9 @@ line-height: 20px;
 .creation {
   text-align: center;
 }
+/*
+コラ画像の装飾
+         */
 .skills {
   display: flex;
   justify-content: center;
@@ -189,6 +192,9 @@ line-height: 20px;
 /*
 宣伝の装飾
        */
+.Advertisement_title {
+        text-align: center;
+}
 .various_links {
   display: flex;
   justify-content: center;
