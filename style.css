@@ -190,7 +190,9 @@ line-height: 20px;
 宣伝の装飾
        */
 .various_links {
-        display: flex;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 .Advertisement_icon {
         width: 30px;
