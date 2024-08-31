@@ -200,14 +200,3 @@ line-height: 20px;
         padding-bottom: 14px;
         height: 256px;
 }
-
-/*
-宣伝の装飾
-       */
-.Advertisement_title {
-        text-align: center;
-        padding: 0px;
-}
-.Advertisement_title .text {
-        margin: 14px;
-}
