@@ -59,9 +59,7 @@ line-height: 20px;
       font-size: 50px;
 }
 
-/* 
-自己紹介の装飾
-         */
+
 .about {
   display: flex;
   justify-content: center;
@@ -101,9 +99,7 @@ line-height: 20px;
         width: 75px;
         height: 75px;
 
-/*
-作品の装飾
-      */
+
 .wallpaper1 {
         background: white;
         border-radius: 30px 0px;
@@ -120,9 +116,7 @@ line-height: 20px;
 .creation .text {
         margin: 14px;
 }
-/*
-コラ画像の装飾
-         */
+
 .skills {
   display: flex;
   justify-content: center;
@@ -160,9 +154,7 @@ line-height: 20px;
   font-size: 20px;
 }
 
-/*
-動画の装飾
-       */
+
 .wallpaper2 {
         background: white;
         border-radius: 0px 30px;
