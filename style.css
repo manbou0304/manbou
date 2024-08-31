@@ -198,6 +198,10 @@ line-height: 20px;
        */
 .Advertisement_title {
         text-align: center;
+        padding: 0px;
+}
+.Advertisement_title .text {
+        margin: 14px;
 }
 .various_links {
   display: flex;
