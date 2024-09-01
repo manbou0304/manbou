@@ -134,6 +134,7 @@ header ul li a {
 }
 .sakuhin {
         margin: 0px auto;
+        text-align: center;
 }
 .sakuhin .img {
         border-radius: 15px;
@@ -142,7 +143,6 @@ header ul li a {
         height: 330px;
         margin: 0px;
         padding: 0px;
-        justify-content: center;
 }
 .detail {
         padding: 0px;
