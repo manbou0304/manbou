@@ -133,14 +133,14 @@ header ul li a {
         padding: 0px;
 }
 .sakuhin {
-        margin: 0px;
+        margin: 35px;
 }
 .sakuhin .img {
         border-radius: 15px;
         border: solid rgb(175, 200, 244);
         width: 330px;
         height: 330px;
-        margin: 15px;
+        margin: 0px;
         padding: 0px;
 }
 .detail {
