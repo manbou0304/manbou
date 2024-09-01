@@ -115,6 +115,8 @@ header ul li a {
 
 .creation_grid {
         display: grid;
+        grid-template-rows: 600px;
+        grid-template-columns: 330px;
 }
 .grid_item1 {
     background: white;
