@@ -119,6 +119,7 @@ header ul li a {
     grid-template-columns: 400px 400px 400px;
     margin: 0px auto;
     justify-content: center;
+    width: 1200px;
 }
 .grid_item1 {
     background: white;
