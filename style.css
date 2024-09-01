@@ -2,193 +2,219 @@
 css全体の設定
          */
 div {
-      padding-top: 24px;
-      padding-bottom: 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
+
 body {
-      color: #333333;
-      margin: 0px;
-      display: block;
-    }
+    color: #333333;
+    margin: 0px;
+    display: block;
+}
+
 iframe {
-  border-radius: 7px;
-  border: solid 2px rgb(170, 230, 230);
+    border-radius: 7px;
+    border: solid 2px rgb(170, 230, 230);
 }
+
 .blank {
-        padding-top: 0;
+    padding-top: 0;
 }
 
 /* 
-ヘッダーの装飾
-         */
-header{
-      background-color: #333333;
-      display: flex;
-      justify-content: space-between;
-      padding: 0px;
-      position: sticky;
-      top: 0px;
-      z-index: 2;
-      height: 50px;
-      padding: 0px;
-    }
+      ヘッダーの装飾
+               */
+header {
+    background-color: #333333;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    height: 50px;
+    padding: 0px;
+}
+
 header ul li {
-      display: inline-block;
-      padding: 0px 20px;
-      height: 20px;
-    }
+    display: inline-block;
+    padding: 0px 20px;
+    height: 20px;
+}
+
 header ul li a {
-      color: #FFFFFF;
-      font-size: 20px;
-      text-decoration: none;
-line-height: 20px;
-    }
+    color: #FFFFFF;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 20px;
+}
 
 /* 
-マンボウのポートフォリオの文字の装飾
-                         */
+      マンボウのポートフォリオの文字の装飾
+                               */
 .midasi {
-      padding: 0px;
-      height: 450px;
+    padding: 0px;
+    height: 450px;
 }
+
 .midasi p {
-      margin: 0px;
-      line-height: 450px;
-      font-weight: 3000;
-      text-align: center;
-      font-size: 50px;
+    margin: 0px;
+    line-height: 450px;
+    font-weight: 3000;
+    text-align: center;
+    font-size: 50px;
 }
 
 
 .about {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
+
 .img {
-  width: 335px;
-  margin: 0px;
-  padding: 0px;
-  z-index: 1;
+    width: 335px;
+    margin: 0px;
+    padding: 0px;
+    z-index: 1;
 }
+
 .img img {
-  border-radius: 10px;
-  border: solid 2px rgb(170, 230, 230);
+    border-radius: 10px;
+    border: solid 2px rgb(170, 230, 230);
 }
+
 .right {
-  margin: 0px 0px 0px 20px;
-  padding: 0px;
+    margin: 0px 0px 0px 20px;
+    padding: 0px;
 }
+
 .title {
-  margin: 0px;
-  padding: 0px;
-  font-weight: bold;
-  font-size: 36px;
+    margin: 0px;
+    padding: 0px;
+    font-weight: bold;
+    font-size: 36px;
 }
+
 .about .text {
-  margin: 10px 0px 0px;
-  padding: 0px;
-  font-size: 26px;
+    margin: 10px 0px 0px;
+    padding: 0px;
+    font-size: 26px;
 }
+
 .various_links {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px;
 }
+
 .Advertisement_icon {
-        width: 50px;
-        height: 50px;
+    width: 50px;
+    height: 50px;
 }
 
 .wallpaper1 {
-        background: white;
-        border-radius: 30px 0px;
-        border: solid rgb(175, 200, 244);
-        border-width: 2px 4px 4px 2px;
-        width: 887.66px;
-        margin: 0px auto;
-        padding: 0px;
+    background: white;
+    border-radius: 30px 0px;
+    border: solid rgb(175, 200, 244);
+    border-width: 2px 4px 4px 2px;
+    width: 887.66px;
+    margin: 0px auto;
+    padding: 0px;
 }
+
 .creation {
-  text-align: center;
-  padding: 0px;
+    text-align: center;
+    padding: 0px;
 }
+
 .creation .text {
-        margin: 14px;
+    margin: 14px;
 }
 
 .skills {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding-top: 14px;
-  padding-bottom: 14px;
-  width: 887.656px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    width: 887.656px;
 }
+
 .sakuhin {
-        margin: 0px;
-        height: 347.13px;
+    margin: 0px;
+    height: 347.13px;
 }
+
 .sakuhin img {
-  width: 360px;
-  margin: 0px;
-  padding: 0px;
-  overflow: hidden;
-  z-index: 1;
+    width: 360px;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    z-index: 1;
 }
+
 .sakuhin img {
-  border-radius: 10px;
-  border: solid 2px rgb(170, 230, 230);
+    border-radius: 10px;
+    border: solid 2px rgb(170, 230, 230);
 }
+
 .detail {
-  margin: 0px 0px 0px 20px;
-  padding: 0px;   
-  width: 475.66px;
+    margin: 0px 0px 0px 20px;
+    padding: 0px;
+    width: 475.66px;
 }
+
 .detail .title {
-        font-size: 30px;
+    font-size: 30px;
 }
+
 .detail .text {
-  margin: 10px 0px 0px;
-  padding: 0px;
-  font-size: 20px;
+    margin: 10px 0px 0px;
+    padding: 0px;
+    font-size: 20px;
 }
 
 
 .wallpaper2 {
-        background: white;
-        border-radius: 0px 30px;
-        border: solid rgb(175, 200, 244);
-        border-width: 2px 4px 4px 2px;
-        width: 887.656px;
-        margin: 0px auto;
-        padding: 0px;
+    background: white;
+    border-radius: 0px 30px;
+    border: solid rgb(175, 200, 244);
+    border-width: 2px 4px 4px 2px;
+    width: 887.656px;
+    margin: 0px auto;
+    padding: 0px;
 }
+
 .video {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0px;
-  width: 887.656px;
-  height: 294px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0px;
+    width: 887.656px;
+    height: 294px;
 }
+
 .overview {
-        padding-top: 14px;
-        padding-bottom: 14px;
-        margin-right: 20px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    margin-right: 20px;
 }
+
 .overview .title {
-        font-size: 30px;
-        text-align: left;
+    font-size: 30px;
+    text-align: left;
 }
+
 .overview .text {
-  margin: 10px 0px 0px;
-  padding: 0px;
-  font-size: 20px;
-  text-align: left;
+    margin: 10px 0px 0px;
+    padding: 0px;
+    font-size: 20px;
+    text-align: left;
 }
+
 .douga {
-        padding-top: 14px;
-        padding-bottom: 14px;
-        height: 256px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    height: 256px;
 }
