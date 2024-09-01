@@ -126,6 +126,8 @@ header ul li a {
     border-width: 2px 4px 4px 2px;
     margin: 0px auto;
     padding: 0px;
+    grid-row: 1 / 1;
+    grid-column: 2 / 2;
 }
 .sakuhin {
         border-radius: 15px;
