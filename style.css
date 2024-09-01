@@ -115,8 +115,8 @@ header ul li a {
 
 .creation_grid {
     display: grid;
-    grid-template-rows: 600px;
-    grid-template-columns: 330px;
+    grid-template-rows: 600px 600px 600px;
+    grid-template-columns: 330px 330px 330px;
     margin: 0px auto;
 }
 .grid_item1 {
