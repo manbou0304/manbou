@@ -140,7 +140,7 @@ header ul li a {
         border: solid rgb(175, 200, 244);
         width: 330px;
         height: 330px;
-        margin: 0px;
+        margin: 0px auto;
         padding: 0px;
 }
 .detail {
