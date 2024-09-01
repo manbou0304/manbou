@@ -117,6 +117,7 @@ header ul li a {
     display: grid;
     grid-template-rows: 600px;
     grid-template-columns: 330px;
+    margin: 0px auto;
 }
 .grid_item1 {
     background: white;
