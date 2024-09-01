@@ -148,6 +148,7 @@ header ul li a {
 }
 .detail .text {
         font-size: 17px;
+        margin: 0px;
 }
 .grid_item2 {
     background: white;
