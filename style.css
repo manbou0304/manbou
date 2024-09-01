@@ -134,10 +134,10 @@ header ul li a {
 }
 .sakuhin {
         margin: 0px;
-        border-radius: 15px;
-        border: solid rgb(175, 200, 244);
 }
 .sakuhin .img {
+        border-radius: 15px;
+        border: solid rgb(175, 200, 244);
         width: 330px;
         height: 330px;
         margin: 15px;
