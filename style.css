@@ -113,6 +113,9 @@ header ul li a {
     height: 50px;
 }
 
+.creation {
+    text-align: center;
+}
 .creation_grid {
     display: grid;
     grid-template-rows: 800px;
