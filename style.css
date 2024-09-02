@@ -118,7 +118,6 @@ header ul li a {
     grid-template-rows: 600px;
     grid-template-columns: 400px 400px 400px;
     margin: 0px auto;
-    width: 1230px;
     gap: 15px;
 }
 .grid_item1 {
