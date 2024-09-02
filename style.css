@@ -15,6 +15,7 @@ body {
 iframe {
     border-radius: 7px;
     border: solid 2px rgb(170, 230, 230);
+    margin: 0px;
 }
 
 .blank {
