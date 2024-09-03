@@ -177,11 +177,11 @@ header ul li a {
     padding: 0px;
     grid-row: 1 / 2;
     grid-column: 2 / 3;
+    grid-template-rows: 400px 300px 100px;
+    grid-template-columns: 400px;
 }
 .video {
         padding: 0px;
-        grid-template-rows: 400px 300px 100px;
-        grid-template-columns: 400px;
 }
 .douga {
         grid-row: 1 / 2;
