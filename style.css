@@ -180,6 +180,12 @@ header ul li a {
 }
 .video {
         padding: 0px;
+        grid-template-rows: 400px 300px 100px;
+        grid-template-columns: 400px;
+}
+.douga {
+        grid-row: 1 / 2;
+        grid-column: 1 / 2;
 }
 .douga iframe {
         width: 370px;
@@ -188,6 +194,8 @@ header ul li a {
 }
 .overview {
         padding: 0px;
+        grid-row: 2 / 3;
+        grid-column: 1 / 2;
 }
 .grid_item3 {
         grid-row: 1 / 2;
