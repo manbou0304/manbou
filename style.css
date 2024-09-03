@@ -144,6 +144,8 @@ header ul li a {
 .sakuhin {
         margin: 0px auto;
         text-align: center;
+        grid-row: 1 / 2;
+        grid-column: 1 / 2;
 }
 .sakuhin .img {
         border-radius: 7px;
@@ -155,6 +157,8 @@ header ul li a {
 }
 .detail {
         padding: 0px;
+        grid-row: 2 / 3;
+        grid-column: 3 / 4;
 }
 .detail .text {
         font-size: 17px;
