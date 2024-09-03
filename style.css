@@ -134,6 +134,7 @@ header ul li a {
     padding: 0px;
     grid-row: 1 / 2;
     grid-column: 1 / 2;
+    display: grid;
 }
 .skills {
         padding: 0px;
