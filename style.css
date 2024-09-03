@@ -158,11 +158,15 @@ header ul li a {
 .detail {
         padding: 0px;
         grid-row: 2 / 3;
-        grid-column: 3 / 4;
+        grid-column: 1 / 2;
 }
 .detail .text {
         font-size: 17px;
         margin: 0px;
+}
+.link {
+        grid-row: 3 / 4;
+        grid-column: 1 / 2;
 }
 .grid_item2 {
     background: white;
